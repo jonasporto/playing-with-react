@@ -25,7 +25,7 @@ var SearchUser = React.createClass({
 		                type="text"
 		                ref="username"
 		                className="form-control"
-		                placeholder="Ex: matheusml"
+		                placeholder="Type a GitHub username ..."
 		                />
 		            </div>
 		            <button
